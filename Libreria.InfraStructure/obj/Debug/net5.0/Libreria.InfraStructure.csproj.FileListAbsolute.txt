@@ -1,0 +1,17 @@
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\bin\Debug\net5.0\Libreria.InfraStructure.deps.json
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\bin\Debug\net5.0\Libreria.InfraStructure.dll
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\bin\Debug\net5.0\ref\Libreria.InfraStructure.dll
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\bin\Debug\net5.0\Libreria.InfraStructure.pdb
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\obj\Debug\net5.0\Libreria.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\obj\Debug\net5.0\Libreria.InfraStructure.AssemblyInfoInputs.cache
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\obj\Debug\net5.0\Libreria.InfraStructure.AssemblyInfo.cs
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\obj\Debug\net5.0\Libreria.InfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\obj\Debug\net5.0\Libreria.InfraStructure.dll
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\obj\Debug\net5.0\ref\Libreria.InfraStructure.dll
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\obj\Debug\net5.0\Libreria.InfraStructure.pdb
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\bin\Debug\net5.0\Libreria.InfraStructure.runtimeconfig.json
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\bin\Debug\net5.0\Libreria.InfraStructure.runtimeconfig.dev.json
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\obj\Debug\net5.0\Libreria.InfraStructure.csproj.AssemblyReference.cache
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\obj\Debug\net5.0\Libreria.InfraStructure.genruntimeconfig.cache
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\bin\Debug\net5.0\Libreria.Domain.dll
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.InfraStructure\bin\Debug\net5.0\Libreria.Domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\bin\Debug\net5.0\Libreria.Domain.deps.json
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\bin\Debug\net5.0\Libreria.Domain.dll
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\bin\Debug\net5.0\ref\Libreria.Domain.dll
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\bin\Debug\net5.0\Libreria.Domain.pdb
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\obj\Debug\net5.0\Libreria.Domain.csproj.AssemblyReference.cache
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\obj\Debug\net5.0\Libreria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\obj\Debug\net5.0\Libreria.Domain.AssemblyInfoInputs.cache
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\obj\Debug\net5.0\Libreria.Domain.AssemblyInfo.cs
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\obj\Debug\net5.0\Libreria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\obj\Debug\net5.0\Libreria.Domain.dll
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\obj\Debug\net5.0\ref\Libreria.Domain.dll
+C:\Users\jecastellonm\Documents\Pruebas\BrowserTravelSolutions\AplicacionLibreria\Libreria\Libreria.Domain\obj\Debug\net5.0\Libreria.Domain.pdb
